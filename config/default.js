@@ -17,7 +17,7 @@ module.exports = {
     },
 
     karma: {
-        database: 'karmafile.json'
+        database: '/home/schinken/projects/backspace/node-ircbot/data/karma.json'
     },
 
     spacestatus: {
