@@ -21,7 +21,8 @@ module.exports = {
     },
 
     spacestatus: {
-        url: 'http://status.bckspc.de/spacestatus.php'
+        url: 'http://status.bckspc.de/spacestatus.php',
+        interval: ms('5m')
     },
 
     redmine: {
@@ -35,9 +36,9 @@ module.exports = {
     mqtt: {
         server: 'mqtt.core.bckspc.de',
         topics: {
-            pizza: 'psa/pizza',
-            alarm: 'psa/alarm',
-            sound: 'psa/sound'
+            pizza: 'test/psa/pizza',
+            alarm: 'test/psa/alarm',
+            sound: 'test/psa/sound'
         }
     }
 };
