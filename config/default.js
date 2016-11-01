@@ -28,7 +28,7 @@ module.exports = {
     redmine: {
         url: 'https://redmine.hackerspace-bamberg.de',
         project: 'backspace',
-        user: '',
+        username: 'restapi',
         password: '',
         intervalMs: ms('5m')
     },
@@ -36,9 +36,9 @@ module.exports = {
     mqtt: {
         server: 'mqtt.core.bckspc.de',
         topics: {
-            pizza: 'test/psa/pizza',
-            alarm: 'test/psa/alarm',
-            sound: 'test/psa/sound'
+            pizza: 'psa/pizza',
+            alarm: 'psa/alarm',
+            sound: 'psa/sound'
         }
     }
 };
