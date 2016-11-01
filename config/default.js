@@ -22,7 +22,7 @@ module.exports = {
 
     spacestatus: {
         url: 'http://status.bckspc.de/spacestatus.php',
-        interval: ms('5m')
+        intervalMs: ms('5m')
     },
 
     redmine: {
