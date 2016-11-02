@@ -5,6 +5,7 @@ module.exports = {
     irc: {
         server: 'irc.freenode.net',
         port: 6667,
+        realname: 'Backspace IRC-Bot',
         nickname: 'schinkenb0t',
         channel: '#schinkenspace',
         commandPrefix: '!'
