@@ -12,8 +12,8 @@ handy things.
   <dt>!inspace</dt>
   <dd>Shortcut: i. List the members currently present.</dd>
 
-  <dt>!pizza NUM{s,m,h}</dt>
-  <dd>Shortcut: p. Alert you in NUM seconds/minutes/hours. Default is 15 minutes.</dd>
+  <dt>!pizza NUM</dt>
+  <dd>Shortcut: p. Alert you in NUM minutes. Default is 15 minutes.</dd>
 
   <dt>NICK +1</dt>
   <dd>Give NICK one karma point.</dd>
@@ -22,15 +22,12 @@ handy things.
   <dd>Shortcut: k. List each NICK's karma score.
       If no NICK is supplied, list the issuer's score.</dd>
 
-  <dt>!karmatop NUM</dt>
+  <dt>!karmatop [NUM]</dt>
   <dd>List the top NUM karma scorers. Default is 3, maximum is 5.</dd>
 
   <dt>!alarm MSG</dt>
   <dd>Shortcut: a. Broadcasts MSG in the local network.
       Other services may display MSG on the LED-board or similar.<\dd>
-
-  <dt>!echo [ARGS]</dt>
-  <dd>Echo the arguments.</dd>
 </dl>
 
 ## Other features
