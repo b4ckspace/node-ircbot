@@ -27,7 +27,7 @@ handy things.
 
   <dt>!alarm MSG</dt>
   <dd>Shortcut: a. Broadcasts MSG in the local network.
-      Other services may display MSG on the LED-board or similar.<\dd>
+      Other services may display MSG on the LED-board or similar.</dd>
 </dl>
 
 ## Other features
