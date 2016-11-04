@@ -1,1 +1,1 @@
-var irc = require('./lib/bootstrap.js');
+require('./lib/bootstrap.js');
