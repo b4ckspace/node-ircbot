@@ -11,7 +11,7 @@ handy things.
 To run the program, you have to start node.js in strict mode, when your node version <6:
 
 ```bash
-git branch -d the_local_branch
+node --use_strict main.js
 ```
 
 ## Commands
