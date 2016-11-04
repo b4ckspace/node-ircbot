@@ -34,6 +34,10 @@ module.exports = {
         intervalMs: ms('5m')
     },
 
+    pizzaTimer: {
+        maxTimeoutMs: ms('1d')
+    },
+
     mqtt: {
         server: 'mqtt.core.bckspc.de',
         topics: {
