@@ -6,6 +6,14 @@ bckspc-bot is an IRC bot for [backspace][1]'s channel on freenode (#backspace).
 It provides various features to interact with space infrastructure and other
 handy things.
 
+## Running in node <6
+
+To run the program, you have to start node.js in strict mode, when your node version <6:
+
+```bash
+git branch -d the_local_branch
+```
+
 ## Commands
 
 <dl>
