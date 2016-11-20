@@ -1,19 +1,20 @@
 {
   "name": "node-ircbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The IRC bot from hackerspace-bamberg.de",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Christopher Schirner <schinken@bamberg.ccc.de>",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/b4ckspace/node-ircbot"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b4ckspace/node-ircbot"
   },
   "license": "MIT",
   "dependencies": {
     "configurations": "^2.0.0",
+    "html-entities": "^1.2.0",
     "irc": "^0.5.0",
     "mqtt": "^2.0.1",
     "ms": "^0.7.2",
