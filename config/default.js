@@ -1,4 +1,4 @@
-var ms = require('ms');
+const ms = require('ms');
 
 module.exports = {
 
