@@ -9,6 +9,9 @@ handy things.
 ## Commands
 
 <dl>
+  <dt>!help [USER]</dt>
+  <dd>Show usage information (optionally mention a specific user)</dd>
+
   <dt>!inspace</dt>
   <dd>Shortcut: i. List the members currently present.</dd>
 
