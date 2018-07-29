@@ -1,6 +1,6 @@
 {
   "name": "node-ircbot",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "The IRC bot from hackerspace-bamberg.de",
   "main": "main.js",
   "scripts": {
