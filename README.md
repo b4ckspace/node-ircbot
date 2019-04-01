@@ -16,7 +16,7 @@ handy things.
   <dd>Shortcut: i. List the members currently present.</dd>
 
   <dt>!pizza NUM</dt>
-  <dd>Shortcut: p. Alert you in NUM minutes. Default is 15 minutes.</dd>
+  <dd>Shortcut: p. Format: 10, 10m, 1:20 or 1h 20m format. Default is 15 minutes.</dd>
 
   <dt>NICK +1</dt>
   <dd>Give NICK one karma point.</dd>
