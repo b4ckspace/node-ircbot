@@ -3,11 +3,11 @@ const ms = require('ms');
 module.exports = {
 
     irc: {
-        server: 'irc.freenode.net',
+        server: 'irc.libera.chat',
         port: 6667,
         realname: 'Backspace IRC-Bot',
-        nickname: 'schinkenb0t',
-        channel: '#schinkenspace',
+        nickname: 'b4ckspace',
+        channel: '#backspace-dev',
         commandPrefix: '!',
         retryDelay: ms('1m')
         /*
