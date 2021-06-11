@@ -8,7 +8,8 @@ module.exports = {
         realname: 'Backspace IRC-Bot',
         nickname: 'schinkenb0t',
         channel: '#schinkenspace',
-        commandPrefix: '!'
+        commandPrefix: '!',
+        retryDelay: ms('1m')
         /*
         login: {
             username: 'xxx',

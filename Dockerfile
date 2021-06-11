@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:16-alpine
 COPY . /opt/node-ircbot
 
 RUN cd /opt/node-ircbot && yarn install --ignore-optional
