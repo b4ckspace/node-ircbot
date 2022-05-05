@@ -348,10 +348,10 @@ leven@^2.1.0:
   resolved "https://registry.yarnpkg.com/leven/-/leven-2.1.0.tgz#c2e7a9f772094dee9d34202ae8acce4687875580"
   integrity sha1-wuep93IJTe6dNCAq6KzORoeHVYA=
 
-matrix-org-irc@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/matrix-org-irc/-/matrix-org-irc-1.2.0.tgz#0ef6e5a4a05016ea43bb1348a22289dda70bf511"
-  integrity sha512-RnfeR9FimJJD/iOWw0GiV7NIPRmBJobvFasUgjVmGre9A4qJ9klHIDOlQ5vXIoPPMjzG8XXuAf4WHgMCNBfZkQ==
+matrix-org-irc@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/matrix-org-irc/-/matrix-org-irc-1.2.1.tgz#05b668ab655091867b44e85b7a121b83aca95a90"
+  integrity sha512-x7SoeIOP+Z6R2s8PJqhM89OZNsS2RO4srx7c3JGa/VN6rtJ1AMLEyW4EPCVh09tGiTvmbit9KJysjLvFQPx9KA==
   dependencies:
     chardet "^1.3.0"
     iconv-lite "^0.6.2"
